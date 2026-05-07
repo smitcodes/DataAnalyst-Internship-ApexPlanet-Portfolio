@@ -113,7 +113,7 @@ Created a business storytelling presentation and validated insights using statis
 www.linkedin.com/in/smitshewale
 
 ## GitHub
-(PASTE_LINK)
+https://github.com/smitcodes
 
 ---
 
