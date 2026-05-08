@@ -7,6 +7,15 @@ This repository contains all tasks completed during my 60-Day Data Analytics Int
 
 ---
 
+# 🏢 Internship Details
+
+- **Company:** ApexPlanet Software Pvt. Ltd.
+- **Role:** Data Analyst Intern
+- **Intern ID:** APSPL2630181
+- **Duration:** 60 Days
+
+---
+
 # 🚀 Internship Tasks
 
 ## 🔹 Task 1 — Data Immersion & Wrangling
