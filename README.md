@@ -1,7 +1,7 @@
 # Data Analytics Internship Portfolio
 
 ## 👨‍💻 About Me
-Hello, I'm Smit, a Computer Science student passionate about Data Analytics, Business Intelligence, and Visualization.
+Hello, I'm Smit Shewale, a Computer Science student passionate about Data Analytics, Business Intelligence, and Visualization.
 
 This repository contains all tasks completed during my 60-Day Data Analytics Internship at ApexPlanet Software Pvt. Ltd.
 
@@ -89,7 +89,7 @@ Created a business storytelling presentation and validated insights using statis
 
 # 📊 Final Dashboard Preview
 
-(Add screenshots here)
+![Dashboard](Dashboard_Screenshots\Dashboard_screenshot.png)
 
 ---
 
