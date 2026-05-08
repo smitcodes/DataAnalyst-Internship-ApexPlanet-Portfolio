@@ -89,7 +89,7 @@ Created a business storytelling presentation and validated insights using statis
 
 # 📊 Final Dashboard Preview
 
-![Dashboard](Dashboard_Screenshots\Dashboard_screenshot.png)
+![Dashboard](Dashboard_Screenshots/Dashboard_screenshot.png)
 
 ---
 
